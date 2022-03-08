@@ -16,7 +16,7 @@ The Category and Subcategory field was also used to create two new variables Par
 A pivot table was then created using the entire data set and placed in the Theater Outcomes by Launch Date tab.
 The count of success, failure, and canceled outcomes were then compared to the month that they were launched in with a filter applied to limit the analysis to Kickstarters in the theater category.  
 ![Theater_Outcomes_vs_Launch_pivot.png](https://github.com/justinkirk8/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch_pivot.png)  
-A pivot chart was then used to create a line graph with markers in order to visualize the date observed on the pivot table.  
+This pivot chart was then used to create a line graph with markers in order to visualize the date observed on the pivot table.  
 ![Theater_Outcomes_vs_Launch.png](https://github.com/justinkirk8/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
